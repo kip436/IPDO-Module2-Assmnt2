@@ -1,5 +1,5 @@
-' Code.TXT  March 29, 2021
+' feature1.txt  March 29, 2021
 ' IntelliPaat Dev Op
-' Module 1 - Assignment 1
+' Module 1 - GIT Assignment 2
 ' Kip Marchant (kip.marchant@gmail.com)
 ' 
